@@ -1,4 +1,5 @@
-baseURL = "http://ark.athnex.com:12103/"
+#baseURL = "http://ark.athnex.com:12103/"
+baseURL = "https://poor-choice.com"
 languageCode = "en-us"
 title = "Poor Choice Records - A PIMP Inc Company"
 theme = "cactus"
