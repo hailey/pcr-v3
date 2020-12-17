@@ -19,4 +19,4 @@ Take a listen if you dare to some pre releases for Fueled by Pornography.
 
 * [Something in my Nose]({{< relref "/music/something-in-my-nose.md" >}})
 * [Tweaking with Grandma]({{< relref "/music/tweaking-with-grandma.md" >}})
-* [Flic your bic Bitch]({{< relref "/music/flic-your-bic-bitch.md" >}})
+* [Flic My bic Bitch]({{< relref "/music/flic-your-bic-bitch.md" >}})

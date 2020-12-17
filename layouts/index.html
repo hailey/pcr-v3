@@ -4,7 +4,7 @@
     {{ .Site.Params.description }}
   {{ end }}
   {{ if isset .Site.Params "social" }}
-      <p>Find me on
+      <p>Find us on
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
       {{ if eq $elem.name "email" }}
@@ -84,27 +84,11 @@
     </ul>
     {{ end }}
   </section>
-
-  {{ $showProjectsList := false }}
-  {{ if .Site.Data.projects }}
-    {{ $showProjectsList = true }}
-  {{ else if (isset .Site.Params "showProjectsList") }}
-    {{ $showProjectsList = .Site.Params.ShowProjectsList }}
-  {{ end }}
-  {{ if $showProjectsList }}
-    {{ $projectsUrl := "#" }}
-    {{ if isset .Site.Params "projectsUrl" }}
-      {{ $projectsUrl = .Site.Params.projectsUrl }}
-    {{ end }}
-  <section id="projects">
-    <span class="h1"><a href="{{ $projectsUrl }}">Projects</a></span>
-    <ul class="project-list">
-        {{ range .Site.Data.projects.list }}
-        <li class="project-item">
-          <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
-        </li>
-        {{ end }}
-    </ul>
+  <section id="submissions">
+      <span class="h1">Submissions</span>
+      <p>We accept submissions from new and untalented artists. If you have talent don't bother.</p>
+        <a class="icon" target="_blank" rel="noopener" href="mailto:submissions@pimp-inc.com">
+          <i class="fas fa-envelope"></i> Submissions Email
+        </a>
   </section>
-  {{ end }}
 {{ end }}
