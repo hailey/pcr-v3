@@ -1,0 +1,51 @@
+baseURL = "http://ark.athnex.com:12103/"
+languageCode = "en-us"
+title = "Poor Choice Records - A PIMP Inc Company"
+theme = "cactus"
+copyright = "2020-2021 PIMP Inc"
+
+[params]
+colortheme = "dark"
+# css = ["css/custom.css"]
+description = "Poor Choice Records is a world reconized brand known for the publishing of poor quality music (Is you could even call it that)."
+mainSection = "post"
+postsOnHomePage = 15
+rss = true
+logo = "poorchoicerecord-sitelogo-speakeronly.svg"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/post"
+weight = 2
+
+[[menu.main]]
+name = "Bands"
+url = "/band"
+weight = 4
+
+[[menu.main]]
+name = "Albums"
+url = "/album"
+weight = 5
+
+[[menu.main]]
+name = "Music"
+url = "/music"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 6
+
+[[params.social]]
+  name = "email"
+  link = "contact@pimp-inc.com"  # no need for "mailto:" in the head
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/PoorChoiceLtd"
