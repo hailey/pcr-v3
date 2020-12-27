@@ -12,4 +12,9 @@ draft: false
 New song! **DDEA**! Listen here! A poor choice exclusive until they make a full album,
 which they will because of our rock solid contracts.
 
-{{<music-download src="downloads/fueled-by-pornography/flic-my-bic-bitch.mp3" title="FLICK SHIT">}}
+{{<music-download2
+  mp3src="/downloads/furta-sacra/ddea.mp3"
+  flacsrc="/downloads/furta-sacra/ddea.flac"
+  aifsrc="/downloads/furta-sacra/ddea.aif"
+  wavsrc="/downloads/furta-sacra/ddea.wav"
+  title="DDEA">}}

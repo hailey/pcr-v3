@@ -2,3 +2,9 @@
 public/
 
 static/downloads/
+
+private_key.txt
+
+public_key.txt
+
+vapid_private.pem
