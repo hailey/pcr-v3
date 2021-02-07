@@ -8,7 +8,7 @@ copyright = "Poor-Choice Records a subisdary of PIMP Inc"
 [params]
 colortheme = "dark"
 # css = ["css/custom.css"]
-description = "Poor Choice Records is a world reconized brand known for the publishing of poor quality music (If you could even call it that)."
+description = "Poor Choice Records is a world reconized brand known for the publishing of poor quality music. (If you could even call it that.) *You really should have known better.*"
 mainSection = "post"
 rss = true
 logo = "poorchoicerecord-sitelogo-speakeronly.svg"

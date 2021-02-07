@@ -8,7 +8,9 @@ band: "Fueled by Pornography"
 tags: ["fbp","gloryhole gape","free"]
 categories: ["fpb","gloryhole gape","preview"]
 ---
-Downloads below.
+This is the new hit song on spotify and itunes. Remember, **you really should have known better.**&trade;
+
+Tweaking with Grandma Downloads below.
 ![Tweaking with Grandma Album Cover](/images/TwG-SingleConcept-Web.jpg)
 {{<music-download2
   mp3src="/downloads/fueled-by-pornography/tweaking-with-grandma.mp3"
